@@ -9,15 +9,10 @@ Este projeto consiste na criação de um website para uma loja de telemóveis "L
 
 ## Organização do Repositório
 
-* **O projeto será encontrado no src.**
-  * Os ficheiros de **JavaScript** poderão ser encontrados na pasta js.
-  * Os ficheiros de **CSS** poderão ser encontrados na pasta css.
-  * Os ficheiros de **PHP** poderão ser encontrados na pasta php.
-  * Os ficheiros de **Bootstrap** poderão ser encontrados na pasta css e js.
-  * As **Imagem** poderão ser encontrados na pasta img.
-  * Comtém todos os ficheiros de html.
-* **A documentação será encontrado no doc.**
-  * Contém os ficheiros c1, c2, c3, c4.
+* **O projeto será encontrado no src.** [Projeto](https://github.com/TIWM-G06-2020/Lobile-TrabalhoTI/tree/main/src)
+  * Os ficheiros de **JavaScript** poderão ser encontrados na pasta js. [JavaScript](https://github.com/TIWM-G06-2020/Lobile-TrabalhoTI/tree/main/src/js)
+  * Os ficheiros de **CSS** poderão ser encontrados na pasta css. [CSS](https://github.com/TIWM-G06-2020/Lobile-TrabalhoTI/tree/main/src/css)
+* **A documentação será encontrado no doc.** [Documentação](https://github.com/TIWM-G06-2020/Lobile-TrabalhoTI/tree/main/doc)
 
 ## Tecnologias
 
@@ -34,17 +29,17 @@ Este projeto consiste na criação de um website para uma loja de telemóveis "L
 ## Relatório de Capítulos
 
 ### Apresentação do Projeto
-* C1: [Apresentação do Projeto]
+* C1: [Apresentação do Projeto](https://github.com/TIWM-G06-2020/Lobile-TrabalhoTI/tree/main/doc/c1.md)
 
 ### Interface do utilizador
-* C2: [Interface do utilizador (protótipo)]
+* C2: [Interface do utilizador (protótipo)](https://github.com/TIWM-G06-2020/Lobile-TrabalhoTI/tree/main/doc/c2.md)
 
 ### Produto
-* C3: [Produto]
+* C3: [Produto](https://github.com/TIWM-G06-2020/Lobile-TrabalhoTI/tree/main/doc/c3.md)
 
 ### Apresentação
-* C4: [Apresentação]
+* C4: [Apresentação](https://github.com/TIWM-G06-2020/Lobile-TrabalhoTI/tree/main/doc/c4.md)
 
 ## Grupo
 * Fábio Silva Oliveira 34451 [@fabiosiilva16](https://github.com/fabiosiilva16)
-* Alberto João Ribeiro Mendonça 35235
+* Alberto João Ribeiro Mendonça 35235 [@mendonca99](https://github.com/mendonca99)
